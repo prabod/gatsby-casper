@@ -29,17 +29,17 @@ export interface WebsiteConfig {
 }
 
 const config: WebsiteConfig = {
-  title: 'Ghost',
-  description: 'The professional publishing platform',
+  title: 'TechWobble',
+  description: 'One Stop to solve your Tech Wobbles',
   coverImage: 'img/blog-cover.jpg',
   logo: 'img/ghost-logo.png',
   lang: 'en',
-  siteUrl: 'https://gatsby-casper.netlify.com',
-  facebook: 'https://www.facebook.com/ghost',
-  twitter: 'https://twitter.com/tryghost',
+  siteUrl: 'https://techwobble.com/',
+  facebook: '',
+  twitter: '',
   showSubscribe: true,
-  mailchimpAction: 'https://twitter.us19.list-manage.com/subscribe/post?u=a89b6987ac248c81b0b7f3a0f&amp;id=7d777b7d75',
-  mailchimpName: 'b_a89b6987ac248c81b0b7f3a0f_7d777b7d75',
+  mailchimpAction: 'https://techwobble.us7.list-manage.com/subscribe/post?u=e49c149a8e4261345771451e9&amp;id=20777d2cae',
+  mailchimpName: 'b_e49c149a8e4261345771451e9_20777d2cae',
 };
 
 export default config;

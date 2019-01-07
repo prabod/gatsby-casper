@@ -1,3 +1,11 @@
 - id: speeches
   description: Some of the greatest words ever spoken.
   image: img/speeches-cover.jpg
+
+- id: API
+  description: Some of the greatest words ever spoken.
+  image: img/speeches-cover.jpg
+
+- id: Cryptography
+  description: Some of the greatest words ever spoken.
+  image: img/speeches-cover.jpg

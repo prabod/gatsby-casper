@@ -13,3 +13,11 @@
   website: https://ghost.org/
   location: On a plane
   profile_image: img/alex-knight-326705-unsplash.jpg
+- id: TechWobble
+  avatar: avatars/ghost.png
+  bio: TechWobble
+  twitter: TryGhost
+  facebook: ghost
+  website: https://techwobble.com/
+  location: On a plane
+  profile_image: img/alex-knight-326705-unsplash.jpg
